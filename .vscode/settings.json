@@ -1,0 +1,9 @@
+{
+  "eslint.options": {
+    "parserOptions": {
+      "project": [
+        "${workspaceFolder}/tsconfig.json"
+      ]
+    }
+  }
+}
